@@ -5,4 +5,4 @@ Jonnatan Pereira - Jose Alejandro Portela
 Se realiza un estudio sobre los campos de texto `["titulo","resumen","introduccion","conclusiones","referencias"]` de varias decenas de articulos relacionados con la busqueda "Ciencia y vudeojuegos", utilizando Procesamiento de lenguaje natural (NLP) con Python
 
 - [Codigo del análisis](https://github.com/jjpereirab/seminario_2024_1/blob/main/text_analysis.ipynb)
-- [Documento del proyecto]()
+- [Documento del proyecto](https://github.com/jjpereirab/seminario_2024_1/blob/main/2024_proyecto_seminario.pdf)
